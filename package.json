@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "mongoose": "^5.13.5",
+    "nodemon": "^2.0.12",
+    "web3": "^1.5.1"
+  }
+}
